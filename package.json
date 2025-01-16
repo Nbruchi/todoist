@@ -20,7 +20,7 @@
         "exclude": [
           "@bottom-tabs/react-navigation",
           "@spotlightjs/spotlight"
-         ],
+        ],
         "listUnknownPackages": false
       }
     }
@@ -69,8 +69,6 @@
     "react-native-bouncy-checkbox": "^4.1.2",
     "react-native-calendars": "^1.1307.0",
     "react-native-gesture-handler": "~2.20.2",
-    "react-native-ios-context-menu": "^3.1.0",
-    "react-native-ios-utilities": "^5.1.0",
     "react-native-mmkv": "^3.2.0",
     "react-native-purchases": "^8.5.0",
     "react-native-purchases-ui": "^8.5.0",
